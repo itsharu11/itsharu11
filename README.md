@@ -1,7 +1,7 @@
 
 ## Hi👋, I'm Harsh Upadhyay
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Harsh+Upadhyay;Cyber+Security+Enthusiast;Security+Researcher+)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Harsh+Upadhyay;Cyber+Security+Enthusiast;Security+Researcher+)
 
 📫 Connect with me:
 [![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)](https://digital-garden-nine-sage.vercel.app/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-upadhyay-60741a121/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nine_Sage_) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAZrnRZS_-8nyNg76Hols6g)
