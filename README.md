@@ -31,16 +31,9 @@
   <img src="http://media.arcx.io/images/products/CTI101.png" width="125" height="125">
   <img src="https://courses.nvidia.com/wp-content/themes/nvidia-ibl-web-theme/inc/images/nvidia-cert-logo.png" width="250" height="125">
 </p>
-Recent Activity
-
-[[Active Directory College]]
-[[Projects/FIM 1/File Integrity monitor|File Integrity monitor]]
-[[Bandit]]
-[[Burp Academy]]
-[[TryHackMe]]
 
 
 <div align="center">
-    <h4 align="center">"With faith all things are possible."❤️</h4>
+    <h4 align="center">"With perseverance everything is possible."❤️</h4>
 </div>
 
