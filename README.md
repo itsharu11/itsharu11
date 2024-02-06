@@ -7,7 +7,6 @@
 [![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)](https://digital-garden-nine-sage.vercel.app/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-upadhyay-60741a121/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nine_Sage_) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAZrnRZS_-8nyNg76Hols6g)
 
 
-![[networking.gif]]
 - 🌱 I’m currently working on making a research paper regarding Keystroke Dynamics Authentication using Machine Learning.
 - 👨‍💻 I’m currently learning Networking, Comptia Security+ SY0-701
 - 💬 Ask me about anything, I am happy to help 
