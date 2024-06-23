@@ -3,7 +3,7 @@
 
 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-upadhyay-60741a121/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nine_Sage_) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAZrnRZS_-8nyNg76Hols6g)
-![](https://komarev.com/ghpvc/?username=itsharu11&color=green)
+![](https://komarev.com/ghpvc/?username=itsharu11&style=for-the-badge&blueviolet)
 
 - 🌱 I’m currently working on making a research paper regarding Keystroke Dynamics Authentication using Machine Learning.
 - 👨‍💻 I’m currently learning Networking, Comptia Security+ SY0-701
